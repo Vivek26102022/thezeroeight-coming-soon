@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-labelledby="title desc">
+<title id="title">The Zero Eight placeholder logo</title><desc id="desc">A minimal lime infinity-inspired 0 8 symbol on a dark circular background.</desc>
+<rect x="5" y="5" width="230" height="230" rx="115" fill="#10110f" stroke="#d5ff64" stroke-width="3"/>
+<g fill="none" stroke="#d5ff64" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+<ellipse cx="75" cy="120" rx="33" ry="42"/>
+<path d="M111 120 C111 87 145 77 165 95 C187 114 172 137 150 145 C126 154 114 174 135 190 C156 205 183 187 183 165 C183 143 162 127 145 120 C128 113 111 103 111 85"/>
+</g><circle cx="120" cy="120" r="5" fill="#f3f1e9"/>
+</svg>
